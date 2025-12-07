@@ -44,23 +44,15 @@ export interface AmbassadorActivity {
 
 export interface Auction {
   id: string;
-  facilityName?: string;
-  facility?: string;
-  title?: string;
-  unitNumber?: string;
-  address?: string;
-  city?: string;
-  state?: string;
-  location?: string;
-  date?: string;
-  time?: string;
-  auctionDate?: string;
-  distance?: number;
-  lienAmount?: number;
-  description?: string;
-  image?: string;
-  unitCount?: number;
-  type?: 'online' | 'in-person';
+  title: string;
+  facility: string;
+  location: string;
+  date: string;
+  time: string;
+  distance: number;
+  image: string;
+  unitCount: number;
+  type: 'online' | 'in-person';
 }
 
 export interface RescueRequest {

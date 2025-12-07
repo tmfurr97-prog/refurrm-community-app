@@ -1,4 +1,4 @@
-import { Story, Item, Auction } from '../types';
+import { Story, Item } from '../types';
 
 export const stories: Story[] = [
   {
@@ -40,53 +40,5 @@ export const items: Item[] = [
     sentimentalValue: 'Wedding photos 2018-2022',
     unitId: 'U-2847',
     ownerContact: 'maria.garcia@email.com'
-  }
-];
-
-export const mockAuctions: Auction[] = [
-  {
-    id: 'a1',
-    facilityName: 'Sunset Storage',
-    unitNumber: 'B-204',
-    address: '123 Main St, Phoenix, AZ',
-    city: 'Phoenix',
-    state: 'AZ',
-    distance: 4.2,
-    date: 'Nov 18',
-    time: '10:00 AM',
-    auctionDate: '2025-11-18',
-    lienAmount: 750,
-    description: 'Estate unit with family albums and documents',
-    type: 'in-person'
-  },
-  {
-    id: 'a2',
-    facilityName: 'Metro Storage',
-    unitNumber: 'C-118',
-    address: '456 Oak Ave, Dallas, TX',
-    city: 'Dallas',
-    state: 'TX',
-    distance: 12.8,
-    date: 'Nov 22',
-    time: '2:30 PM',
-    auctionDate: '2025-11-22',
-    lienAmount: 540,
-    description: 'Business storage with records and framed photos',
-    type: 'online'
-  },
-  {
-    id: 'a3',
-    facilityName: 'Harbor Lock',
-    unitNumber: 'A-077',
-    address: '789 Elm St, San Diego, CA',
-    city: 'San Diego',
-    state: 'CA',
-    distance: 28.5,
-    date: 'Nov 25',
-    time: '11:15 AM',
-    auctionDate: '2025-11-25',
-    lienAmount: 610,
-    description: 'Household unit flagged for sentimental items',
-    type: 'in-person'
   }
 ];
