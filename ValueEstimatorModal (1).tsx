@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { X, Camera, TrendingUp, AlertCircle, Upload } from 'lucide-react';
-import { ValuationResult } from '../types';
+import { X, Camera, TrendingUp, AlertCircle } from 'lucide-react';
+import { ValuationResult } from '@/types';
 
 interface ValueEstimatorModalProps {
   isOpen: boolean;
@@ -40,7 +40,7 @@ export const ValueEstimatorModal: React.FC<ValueEstimatorModalProps> = ({ isOpen
               <TrendingUp className="w-8 h-8" />
               <h2 className="text-2xl font-bold">Item Value Estimator</h2>
             </div>
-            <button onClick={onClose} className="hover:bg-primary-900 p-2 rounded-lg transition">
+            <button onClick={onClose} className="hover:bg-primary-900 p-2 rounded-lg transition" title="Close">
               <X className="w-6 h-6" />
             </button>
           </div>

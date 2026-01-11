@@ -6,10 +6,17 @@
   "rootMainFiles": [],
   "pages": {
     "/Scanner": [
-      "static/chunks/65883647cf458df6.js",
-      "static/chunks/da2d39d326591993.js",
-      "static/chunks/4aef338b256c17e2.js",
-      "static/chunks/turbopack-3ea7ca3136bccd89.js"
+      "static/chunks/2e93898dff9e263f.js",
+      "static/chunks/307e7a23813712e0.js",
+      "static/chunks/31600722460cab89.js",
+      "static/chunks/1c674d07b5166de3.js",
+      "static/chunks/f91554ecd561badb.js",
+      "static/chunks/b0ee37af3e870210.js",
+      "static/chunks/be260e12d4c3c0a3.js",
+      "static/chunks/1ad1ea3f9fc7b41e.js",
+      "static/chunks/4d3ba6a583439048.js",
+      "static/chunks/198e45b8e909cea7.js",
+      "static/chunks/turbopack-837c654e85b7bafe.js"
     ]
   },
   "ampFirstPages": []

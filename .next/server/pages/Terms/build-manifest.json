@@ -6,10 +6,11 @@
   "rootMainFiles": [],
   "pages": {
     "/Terms": [
-      "static/chunks/f111aa4bac8e81f3.js",
-      "static/chunks/da2d39d326591993.js",
-      "static/chunks/4aef338b256c17e2.js",
-      "static/chunks/turbopack-eddae064a5c38298.js"
+      "static/chunks/c1061172c0ed5c44.js",
+      "static/chunks/f91554ecd561badb.js",
+      "static/chunks/198e45b8e909cea7.js",
+      "static/chunks/b0ee37af3e870210.js",
+      "static/chunks/turbopack-7f81bdc65f934987.js"
     ]
   },
   "ampFirstPages": []
