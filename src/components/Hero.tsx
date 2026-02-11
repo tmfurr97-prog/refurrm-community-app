@@ -23,7 +23,7 @@ export default function Hero() {
       <div className="absolute inset-0 opacity-40">
         <img 
           src="https://d64gsuwffb70l.cloudfront.net/690c55f62a1c1509e277d961_1762416177586_64be382f.webp"
-          alt="Family reunion"
+          alt="Property recovery"
           className="h-full w-full object-cover"
         />
       </div>

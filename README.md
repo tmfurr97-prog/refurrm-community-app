@@ -3,7 +3,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 # ReFURRM
 
-ReFURRM is a platform dedicated to rescuing pets from storage units and connecting them with loving homes. It provides tools for ethical buyers, volunteers, and families to facilitate the rescue and rehoming process.
+ReFURRM is a platform that combines property recovery, documentation, and resale into a single process that manages belongings from discovery to return or responsible redistribution.
 
 ## Quick Start
 
@@ -21,7 +21,7 @@ Refer to `DEPLOYMENT.md` for deployment instructions.
 
 - **Community Access:** Free access for families, volunteers, and the public.
 - **Pro Subscription:** Paid tier for ethical buyers with AI scanning tools, ROI analytics, and auction alerts.
-- **Ambassador Role:** Invitation-only leadership role for coordinating local rescue efforts.
+- **Ambassador Role:** Invitation-only leadership role for coordinating local recovery efforts.
 - **Supabase Integration:** Backend for authentication, database, and edge functions.
 - **Stripe Integration:** For handling Pro subscription payments.
 
